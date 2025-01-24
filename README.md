@@ -8,14 +8,14 @@ Dive into a world of endless entertainment, where every click brings you closer 
 
 ##  Features  
 
-- ** Game Library**: Browse a vast collection of games across multiple genres, including action, adventure, puzzle, strategy, and more.  
-- ** Advanced Search**: Easily find your favorite games with powerful search and filtering options.  
-- ** User Profiles**: Create and customize your profile, track your progress, and save your favorite games.  
-- ** Leaderboards**: Compete with other players and climb the ranks on global and category-specific leaderboards.  
-- ** Community Hub**: Engage with fellow gamers through forums, comments, and reviews.  
-- ** Responsive Design**: Enjoy a smooth experience across devices, from desktops to mobile phones.  
-- ** Secure Authentication**: Sign up and log in securely using email, Google, or other OAuth providers.  
-- ** Fast Performance**: Leveraging Next.js for server-side rendering (SSR) and static site generation (SSG) for blazing-fast load times.  
+- **Game Library**: Browse a vast collection of games across multiple genres, including action, adventure, puzzle, strategy, and more.  
+- **Advanced Search**: Easily find your favorite games with powerful search and filtering options.  
+- **User Profiles**: Create and customize your profile, track your progress, and save your favorite games.  
+- **Leaderboards**: Compete with other players and climb the ranks on global and category-specific leaderboards.  
+- **Community Hub**: Engage with fellow gamers through forums, comments, and reviews.  
+- **Responsive Design**: Enjoy a smooth experience across devices, from desktops to mobile phones.  
+- **Secure Authentication**: Sign up and log in securely using email, Google, or other OAuth providers.  
+- **Fast Performance**: Leveraging Next.js for server-side rendering (SSR) and static site generation (SSG) for blazing-fast load times.  
 
 ---
 

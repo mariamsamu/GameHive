@@ -19,7 +19,7 @@ Dive into a world of endless entertainment, where every click brings you closer 
 
 ---
 
-## ? Technology Stack  
+##  Technology Stack  
 
 - **Frontend**: Next.js, React, Tailwind CSS  
 - **Backend**: Node.js, Express  
@@ -93,7 +93,7 @@ To ensure the quality and reliability of the project, run the following tests:
 
 ---
 
-## ? Contributing  
+##  Contributing  
 
 We welcome contributions from the community! To contribute to Game Hive:  
 1. **Fork the repository**.  
